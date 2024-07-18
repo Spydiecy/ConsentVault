@@ -9,8 +9,6 @@ ConsentVault is a web-based platform for managing health consents. It allows pat
 - [Installation](#installation)
 - [Usage](#usage)
 - [Smart Contract](#smart-contract)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
