@@ -4,26 +4,38 @@ ConsentVault is a web-based platform for managing health consents. It allows pat
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Mockups](#mockups)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Smart Contract](#smart-contract)
 
 ## Introduction
 
 ConsentVault is designed to streamline the process of managing consents in the healthcare industry. It provides a user-friendly interface for patients and healthcare providers to handle consent requests and approvals efficiently.
 
+## Mockups
+
+![image](https://github.com/user-attachments/assets/53d16687-ffd4-4541-b275-0ec185e89ba5)
+
 ## Features
 
 - **Patient Actions**:
   - Register as a patient
-  - Approve consent requests
-  - Fetch consent data
+    ![image](https://github.com/user-attachments/assets/7d8d965d-71bd-4d2e-818e-71b4f24f1a19)
     
+
+  - Approve consent requests
+    ![image](https://github.com/user-attachments/assets/8c4f9110-7d13-481b-9713-b52377ce1cb8)
+    
+
 - **Hospital/Clinic Actions**:
   - Create consent requests
+    ![image](https://github.com/user-attachments/assets/db3d5bac-abd6-428a-ae68-8b16ba78aab4)
+    
+
   - Fetch consent data
+    ![image](https://github.com/user-attachments/assets/cb999ebb-f805-419e-b15c-f92a4d3f8c58)
+    
 
 ## Technologies Used
 
