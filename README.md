@@ -52,7 +52,7 @@ The smart contract is written in Solidity and deployed on the UZH Ethereum block
 
 1. Patient Smart Contract:
    
-   - Smart Contract is deployed at: https://uzhethw.ifi.uzh.ch/address/0xe709dDc00378D7A4824FD2b8711D34Ace05F7B40
+   Smart Contract is deployed at: https://uzhethw.ifi.uzh.ch/address/0xe709dDc00378D7A4824FD2b8711D34Ace05F7B40
 
    ```
    // SPDX-License-Identifier: MIT
@@ -109,9 +109,9 @@ The smart contract is written in Solidity and deployed on the UZH Ethereum block
    }
    ```
 
-1. Consent Smart Contract:
+2. Consent Smart Contract:
 
-   - Smart Contract is deployed at: https://uzhethw.ifi.uzh.ch/address/0xD0c707a48EF40cdaBBaD6F67157B707f66Ab704A
+   Smart Contract is deployed at: https://uzhethw.ifi.uzh.ch/address/0xD0c707a48EF40cdaBBaD6F67157B707f66Ab704A
      
    ```
    // SPDX-License-Identifier: MIT
