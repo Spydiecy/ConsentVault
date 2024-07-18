@@ -22,6 +22,7 @@ ConsentVault is designed to streamline the process of managing consents in the h
   - Register as a patient
   - Approve consent requests
   - Fetch consent data
+    
 - **Hospital/Clinic Actions**:
   - Create consent requests
   - Fetch consent data
@@ -34,9 +35,13 @@ ConsentVault is designed to streamline the process of managing consents in the h
 - Solidity (for the smart contract)
 - Web3.js (for interacting with the smart contract)
 
-## Installation
+## Smart Contract
+The smart contract is written in Solidity and deployed on the Ethereum blockchain. It manages the following:
+[Add details about the smart contract functionality here]
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/consentvault.git
-   cd consentvault
+## Contributing
+[Add contribution guidelines here]
+
+## License
+[Add license information here]
+
